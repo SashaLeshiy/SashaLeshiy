@@ -1,5 +1,6 @@
-### Hi there 👋
+### Всем привет! Меня зовут Александр 👋
 
+Я начинающий веб-разработчик
 <!--
 **SashaLeshiy/SashaLeshiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
