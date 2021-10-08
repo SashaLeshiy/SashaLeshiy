@@ -1,6 +1,10 @@
 ### Всем привет! Меня зовут Александр 👋
 
 Я начинающий веб-разработчик
+
+Мой стек:
+
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg' alt='visualstudiocode' height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node-dot-js' height='40'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/nginx.svg' alt='nginx' height='40'>
 <!--
 **SashaLeshiy/SashaLeshiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
