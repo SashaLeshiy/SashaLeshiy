@@ -33,7 +33,20 @@
 
 ---
 - 📧 zomlesh@yandex.ru
-- 📟 https://t.me/zomlesh
+- 📟 https://t.me/zomlesh 
+
+---
+
+<details>
+  <summary>И напоследок...</summary>
+  
+  Спасибо, что дочитали до этого места
+  
+  
+  ![bart-like](./bart-simpson-like.gif)
+  
+</details>
+
 
 <!--
 **SashaLeshiy/SashaLeshiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
