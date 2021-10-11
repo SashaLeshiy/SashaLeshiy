@@ -43,7 +43,7 @@
   Спасибо, что дочитали до этого места
   
   
-  ![bart-like](./bart-simpson-like.gif)
+  ![bart-like](./simpsons-dance.gif)
   
 </details>
 
