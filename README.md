@@ -27,13 +27,18 @@
 
 ---
 
-- 😎 Проект Hit-Parad - репозиторий пока Privacy 😉
+- 😎 Проект Hit-Parad - репозиторий пока Privacy 😉 <img src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white'> <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' >
 
 ### Контакты
 
 ---
 - 📧 zomlesh@yandex.ru
 - 📟 https://t.me/zomlesh 
+
+### Моя статистика
+---
+
+<img src='https://github-readme-stats.vercel.app/api?username=SashaLeshiy' >
 
 ---
 
