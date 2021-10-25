@@ -21,6 +21,7 @@
 
 - 🎥 Проект Movies-explorer - https://zomlesh.nomoredomains.monster (логин - test@mail.ru пароль - test)
 - 🏰 Проект Место - https://zomlesh.nomoredomains.club/ (логин - test@test.ru пароль - test123)
+- 🏰 Проект Место - https://sashaleshiy.github.io/mesto/ - аналог предыдущего, но на чистом Javascript c использованием классов 🔥🔥🔥
 - ☀️ Проект Путешествие по России - http://dev.roooar.ru/
 
 ### В работе
