@@ -58,7 +58,7 @@
 ---
 
 <details>
-  <summary>Horror</summary>
+  <summary>Warning</summary>
   
   
   ![bart-like](./psycho.webp)
