@@ -46,8 +46,6 @@
 ---
 - 📧 zomlesh@yandex.ru
 - 📟 https://t.me/zomlesh 
-
-### Моя статистика
 ---
 
 <img src='https://github-readme-stats.vercel.app/api?username=SashaLeshiy' >
