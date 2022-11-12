@@ -58,12 +58,10 @@
 ---
 
 <details>
-  <summary>И напоследок...</summary>
-  
-  Спасибо, что изучили мой профиль!
+  <summary>Horror</summary>
   
   
-  ![bart-like](./simpsons-dance.gif)
+  ![bart-like](./psycho.webp)
   
 </details>
 
