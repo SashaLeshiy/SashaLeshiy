@@ -1,6 +1,6 @@
-### Всем привет! Меня зовут ~~Норман Бейтс~~ Саша 👋
+### Hi, My name is ~~Norman Bates~~ Alexander 👋
 
-Колдую, колдую, выколдовываю...
+Give Me Fuel, Give Me Fire, Give Me That Which I Desire...
 
 <!-- - 🔭 Стремлюсь досконально разобраться в магии и пользоваться ею
 - 🏫 В настоящее время изучаю Vue3
@@ -9,6 +9,8 @@
 - 📖 Настольная книга - "Javascript полное руководство" (7 издание) Флэнагана, онлайн - learn.javascript.ru
 - 💪 Хочу присоединится к крутой команде
 - 🚀 И начинать делать реально нужные вещи   -->
+
+### Hard Skills
 
 ---
 
@@ -43,22 +45,28 @@
 - Тестовое №2 https://github.com/SashaLeshiy/test-pan
 - Тестовое №3 https://github.com/SashaLeshiy/test-lepehin -->
 
----
-- 📧 zomlesh@yandex.ru
-- 📟 https://t.me/zomlesh 
----
-
-<img src='https://github-readme-stats.vercel.app/api?username=SashaLeshiy' >
 
 ---
 
 <details>
-  <summary>Warning</summary>
+  <summary>Soft Skills</summary>
   
   
   ![bart-like](./psycho.webp)
   
 </details>
+
+---
+<!-- ---
+- 📧 zomlesh@yandex.ru
+- 📟 https://t.me/zomlesh 
+--- -->
+
+<img src='https://github-readme-stats.vercel.app/api?username=SashaLeshiy' >
+
+---
+
+
 
 
 <!--
