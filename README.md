@@ -73,7 +73,7 @@ Give Me Fuel, Give Me Fire, Give Me That Which I Desire...
 - link to frontend https://github.com/SashaLeshiy/hit-parad-front
 - link to backend https://github.com/SashaLeshiy/hit-parad
 ---
-- 🏫 Проект Место - https://sashaleshiy.github.io/mesto/ - Javascript c использованием классов 🔥🔥🔥
+- 🏫 Project Место - https://sashaleshiy.github.io/mesto/ - JS in class syntax 🔥🔥🔥
 - link to repo https://github.com/SashaLeshiy/mesto
 ---
 - 🏫 Page of a child neuropsychologist - https://neurops.netlify.app/ <br>
