@@ -76,6 +76,11 @@ Give Me Fuel, Give Me Fire, Give Me That Which I Desire...
 - 🏫 Project Место - https://sashaleshiy.github.io/mesto/ - JS in class syntax 🔥🔥🔥
 - link to repo https://github.com/SashaLeshiy/mesto
 ---
+- 🏫 Classic online store with Product Cards, Basket, Sorting and Product Detail Page with Slieder images
+- use Vue 3, Composition API
+- https://test-polet.netlify.app/
+- https://github.com/SashaLeshiy/pilot
+---
 - 🏫 Page of a child neuropsychologist - https://neurops.netlify.app/ <br>
 <img src='https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D' > <img src='https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white' >
 - link to repository https://github.com/SashaLeshiy/psycho
