@@ -68,15 +68,15 @@ Give Me Fuel, Give Me Fire, Give Me That Which I Desire...
   <summary>Projects</summary>
   
   
+- 🏫 Classic online store with Product Cards, Basket, Search, Sorting and Product Detail Page with Slider images
+- <img src='https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D' > <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'> + Composition API, Pinia
+- https://leshiy-store.netlify.app
+- https://github.com/SashaLeshiy/online-store
+---
 - 🤘🤘🤘 Hitallica -  Chart of songs uploaded by Yandex users - https://hitallica.netlify.app/  
 <img src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white'> <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' > <img src='https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white' >
 - link to frontend https://github.com/SashaLeshiy/hit-parad-front
 - link to backend https://github.com/SashaLeshiy/hit-parad
----
-- 🏫 Classic online store with Product Cards, Basket, Search, Sorting and Product Detail Page with Slider images
-- <img src='https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D' > <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>
-- https://leshiy-store.netlify.app
-- https://github.com/SashaLeshiy/online-store
 ---
 - 🏫 Project Место - https://sashaleshiy.github.io/mesto/ - JS in class syntax 🔥🔥🔥
 - link to repo https://github.com/SashaLeshiy/mesto
