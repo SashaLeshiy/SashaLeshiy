@@ -73,6 +73,10 @@ Give Me Fuel, Give Me Fire, Give Me That Which I Desire...
 - https://leshiy-store.netlify.app
 - https://github.com/SashaLeshiy/online-store
 ---
+- ⚡ Создание клиентской части сервиса для публикации статей. На бэкенде CMS, которая отдает содержимое страницы в JSON. Контент страницы формируется динамически из блоков, полученных через API.
+- <img src='https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82' > Composition API
+- https://github.com/SashaLeshiy/fruit
+---
 - 🤘🤘🤘 Hitallica -  Chart of songs uploaded by Yandex users - https://hitallica.netlify.app/  
 <img src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white'> <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' > <img src='https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white' >
 - link to frontend https://github.com/SashaLeshiy/hit-parad-front
