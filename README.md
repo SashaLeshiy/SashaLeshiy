@@ -1,6 +1,6 @@
 ### Hi, My name is Alexander 🤘
 
-I,m frontend developer
+I`m frontend developer
 
 <!-- - 🔭 Стремлюсь досконально разобраться в магии и пользоваться ею
 - 🏫 В настоящее время изучаю Vue3
@@ -55,6 +55,12 @@ I,m frontend developer
 --- -->
 #### Projects
 
+- 💪 Самостоятельное создание c нуля фронтенд части по макету в Figma и подключение к имеющемуся бэкенду. 
+- Vue
+- Vuex
+- Axios
+- Storybook
+- finwhale.ru
 ---
   
 - 🏫 Classic online store with Product Cards, Basket, Search, Sorting and Product Detail Page with Slider images
