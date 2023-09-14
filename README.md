@@ -56,10 +56,7 @@ I`m frontend developer
 #### Projects
 
 - 💪 Самостоятельное создание c нуля фронтенд части по макету в Figma и подключение к имеющемуся бэкенду. 
-- Vue
-- Vuex
-- Axios
-- Storybook
+- <img src='https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D' > + Vuex, Axios, Storybook
 - finwhale.ru
 ---
   
