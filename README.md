@@ -60,7 +60,7 @@ I`m frontend developer
 - finwhale.ru
 ---
   
-- 🏫 Classic online store with Product Cards, Basket, Search, Sorting and Product Detail Page with Slider images
+- 🏫 Classic online store with Product Cards, Basket, Search, Sorting, Payment and Product Detail Page with Slider images
 - <img src='https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D' > <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'> + Composition API, Pinia
 - https://leshiy-store.netlify.app
 - https://github.com/SashaLeshiy/online-store
