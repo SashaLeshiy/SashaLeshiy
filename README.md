@@ -61,13 +61,9 @@ I`m frontend developer
 ---
   
 - 🏫 Classic online store with Product Cards, Basket, Search, Sorting, Payment and Product Detail Page with Slider images
-- <img src='https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D' > <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'> + Composition API, Pinia
-- https://leshiy-store.netlify.app
-- https://github.com/SashaLeshiy/online-store
----
-- ⚡ Создание клиентской части сервиса для публикации статей. На бэкенде CMS, которая отдает содержимое страницы в JSON. Контент страницы формируется динамически из блоков, полученных через API.
-- <img src='https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82' > Composition API
-- https://github.com/SashaLeshiy/fruit
+- <img src='https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D' > <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'> + Composition API, Pinia + Express, Mongoose, MongoDB
+- https://github.com/SashaLeshiy/online-store - front
+- https://github.com/SashaLeshiy/shop-backend - back
 ---
 - 🤘🤘🤘 Hitallica -  Chart of songs uploaded by Yandex users - https://hitallica.netlify.app/  
 <img src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white'> <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' > <img src='https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white' >
