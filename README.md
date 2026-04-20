@@ -58,8 +58,8 @@ I`m frontend developer
 - 💪 Самостоятельное создание c нуля фронтенд части по макету в Figma и подключение к имеющемуся бэкенду. 
 - <img src='https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D' > + Vuex, Axios, Storybook
 - finwhale.ru
---- -->
-  
+-->
+---
 - 🏫 Classic online store with Product Cards, Basket, Search, Sorting, Payment and Product Detail Page with Slider images
 - <img src='https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D' > <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'> + Composition API, Pinia + Express, Mongoose, MongoDB
 - https://github.com/SashaLeshiy/online-store - front
