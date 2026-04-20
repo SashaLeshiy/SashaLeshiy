@@ -52,20 +52,20 @@ I`m frontend developer
 
 <img src='https://github-readme-stats.vercel.app/api?username=SashaLeshiy' >
 
---- -->
+---
 #### Projects
 
 - 💪 Самостоятельное создание c нуля фронтенд части по макету в Figma и подключение к имеющемуся бэкенду. 
 - <img src='https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D' > + Vuex, Axios, Storybook
 - finwhale.ru
----
+--- -->
   
 - 🏫 Classic online store with Product Cards, Basket, Search, Sorting, Payment and Product Detail Page with Slider images
 - <img src='https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D' > <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'> + Composition API, Pinia + Express, Mongoose, MongoDB
 - https://github.com/SashaLeshiy/online-store - front
 - https://github.com/SashaLeshiy/shop-backend - back
 ---
-- 🤘🤘🤘 Hitallica -  Chart of songs uploaded by Yandex users - https://hitallica.netlify.app/  
+- 🤘🤘🤘 Hitallica -  Chart of songs uploaded by Yandex users 
 <img src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white'> <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' > <img src='https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white' >
 - link to frontend https://github.com/SashaLeshiy/hit-parad-front
 - link to backend https://github.com/SashaLeshiy/hit-parad
