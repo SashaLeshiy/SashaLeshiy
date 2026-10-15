@@ -1,14 +1,14 @@
 ### Hi, My name is Alexander 🤘
 
-I`m frontend developer
+💻 **Frontend Developer** with 8+ years in web development.
 
-<!-- - 🔭 Стремлюсь досконально разобраться в магии и пользоваться ею
-- 🏫 В настоящее время изучаю Vue3
-- ⚡ Делаю [тестовые](#тестовые) задания
-- ⚡ Развиваю, модернизирую [cобственный](#собственный-проект) проект (React, Redux)
-- 📖 Настольная книга - "Javascript полное руководство" (7 издание) Флэнагана, онлайн - learn.javascript.ru
-- 💪 Хочу присоединится к крутой команде
-- 🚀 И начинать делать реально нужные вещи   -->
+- 🚀 Working with **Vue.js, Nuxt, React, and TypeScript**
+- 🛠️ Building scalable applications and reusable UI components
+- 🎨 Focused on clean code, performance, and responsive UI
+- 🔌 Experienced with REST APIs, frontend testing, and design systems
+- 📦 Working with Vite, Webpack, Git, and modern frontend tools
+
+I enjoy solving complex problems, improving legacy code, and building reliable, user-friendly web applications.
 
 #### Hard Skills
 
@@ -58,7 +58,7 @@ I`m frontend developer
 - 💪 Самостоятельное создание c нуля фронтенд части по макету в Figma и подключение к имеющемуся бэкенду. 
 - <img src='https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D' > + Vuex, Axios, Storybook
 - finwhale.ru
--->
+
 ---
 - 🏫 Classic online store with Product Cards, Basket, Search, Sorting, Payment and Product Detail Page with Slider images
 - <img src='https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D' > <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'> + Composition API, Pinia + Express, Mongoose, MongoDB
@@ -76,7 +76,7 @@ I`m frontend developer
 - 🏫 Page of a child neuropsychologist - https://neurops.netlify.app/ <br>
 <img src='https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D' > <img src='https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white' >
 - link to repository https://github.com/SashaLeshiy/psycho
-
+-->
   
 </details>
 
